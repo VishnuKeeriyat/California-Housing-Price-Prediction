@@ -1,7 +1,3 @@
-Here's a polished **README.md** for your GitHub repository, tailored to impress recruiters by highlighting your work and its relevance:
-
----
-
 # California Housing Price Prediction using XGBoost
 
 This project uses the **California Housing dataset** to predict median housing prices in California neighborhoods. The workflow demonstrates skills in data analysis, visualization, feature engineering, and building a regression model using **XGBoost**, one of the most powerful and efficient machine learning algorithms.
@@ -120,7 +116,3 @@ The dataset contains **20,640 rows and 9 columns**, providing a robust foundatio
 ---
 
 This project demonstrates practical experience in machine learning and predictive analytics, making it relevant for roles in **data science**, **machine learning**, and **business analytics**. Feel free to explore the code and reach out with any questions or feedback.
-
----
-
-Does this align with what you envisioned?
